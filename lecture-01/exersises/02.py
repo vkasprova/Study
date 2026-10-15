@@ -1,6 +1,9 @@
-# Determining the tens digit of a number
-print("This program is determining the tens digits of a number")
-number = int(input("Enter two-digit number: "))
+# Determining the tens digit of number 
 
-tens_digit = (number // 10)
-print(f"The digit in the tens is: {tens_digit}")
+number1 = int(input())
+number2 = int(input())
+number3 = int(input())
+
+print(number1 // 10)
+print(number2 // 10)
+print(number3 // 10)
