@@ -1,4 +1,4 @@
-#This program converts distance in feet to inches, yards and miles
+# This program converts distance in feet to inches, yards and miles
 
 d_feet = float(input("Input distance in feet: "))
 

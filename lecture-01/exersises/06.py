@@ -1,4 +1,4 @@
-#This program changes the value of a and b
+# This program changes the value of a and b
 
 a = input("Input a: ")
 b = input("Input b: ")

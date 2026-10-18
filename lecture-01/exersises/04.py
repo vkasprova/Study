@@ -1,4 +1,4 @@
-#This program converts height in feet and inches to centimetres
+# This program converts height in feet and inches to centimetres
 
 h_feet = int(input("Feet: "))
 h_inches = int(input("Inches: "))

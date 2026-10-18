@@ -1,4 +1,4 @@
-#This program converts days, hours, minutes, seconds to a total number of seconds
+# This program converts days, hours, minutes, seconds to a total number of seconds
 
 d = int(input("Days: "))
 h = int(input("Hours: "))

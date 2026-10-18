@@ -1,4 +1,4 @@
-#Calculating the hypotenuse of a triangle with given legs 0<a<=1000, 0<b<=1000
+# Calculating the hypotenuse of a triangle with given legs 0<a<=1000, 0<b<=1000
 a=float(input("Enter 1-st leg: "))
 b=float(input("Enter 2-d leg: "))
 import math

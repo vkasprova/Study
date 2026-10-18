@@ -1,4 +1,4 @@
-#This program converts fractions into integer numbers
+# This program converts fractions into integer numbers
 
 a = float(input())
 b = float(input())
